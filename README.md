@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @puredreezy
+- 👋 Hi, I’m Derrick
 - 👀 I’m interested in procurement, supply chain management, project management, and data analytics.
 - 🌱 I’m building SaaS supply chain management.
 - 💞️ I’m looking to collaborate on projects involving in building SaaS, supply chain optimization, procurement automation, and strategic sourcing solutions.
